@@ -46,6 +46,6 @@ int main() {
     }
   }
   connected_components();
-  printf("%d\n", ans);
+  cout << ans << '\n';
   return 0;
 }
